@@ -28,8 +28,8 @@ Miley Ray Cyrus
 jlo
 Amitabh Bachchan
 Elon Musk
-Oprah Winfrey
 NASA
+Oprah Winfrey
 Bruno Mars
 Salman Khan
 Shah Rukh Khan
@@ -59,8 +59,8 @@ NBA
 P!nk
 One Direction
 BBC News (World)
-ye
 Kendall
+ye
 Hillary Clinton
 zayn
 Alicia Keys
@@ -70,10 +70,10 @@ Emma Watson
 Khloé
 Conan O'Brien
 Deepika Padukone
+Joe Biden
 BTS_official
 PRIYANKA
 Adele
-Joe Biden
 Aamir Khan
 The White House 45 Archived
 Shawn Mendes
@@ -95,6 +95,6 @@ Reuters
 Marshall Mathers
 Google
 Anushka Sharma
-Mrs
+Mrs. Petty
 Mariah Carey
 Virender Sehwag
